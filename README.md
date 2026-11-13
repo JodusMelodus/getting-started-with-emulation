@@ -10,6 +10,7 @@ I made this for people who would be interested in this, or similar topics.
 - [SAP-1 Computer](https://karenok.github.io/SAP-1-Computer/)
 - [SAP-1 Architecture](https://deeprajbhujel.blogspot.com/2015/12/sap-1-architecture.html)
 - [Simple As Possible computer](https://en.wikipedia.org/wiki/Simple-As-Possible_computer)
+- [Building an 8-bit breadboard computer! - Ben Eater](https://youtube.com/playlist?list=PLowKtXNTBypGqImE405J2565dvjafglHU&si=8-Y8vSvDy1brUYQY)
 
 #### CHIP-8 [Intermediate]
 - [Write a CHIP-8 emulator](https://tobiasvl.github.io/blog/write-a-chip-8-emulator/)
