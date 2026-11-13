@@ -5,6 +5,8 @@ I made this for people who would be interested in this, or similar topics.
 ## Resources
 - [Digital Computer Electronics - Albert Paul Malvino](https://archive.org/details/digital-computer-electronics-albert-paul-malvino-and-jerald-a-brown/mode/2up)
 - [A beginners guide to emulation](https://www.reddit.com/r/Roms/comments/1d1g6dy/a_beginners_guide_to_emulation/)
+- [Getting started](https://emudev.org/getting_started)
+- [Emulation General Wiki](https://emulation.gametechwiki.com/index.php/Main_Page)
 
 ### Architectures
 
